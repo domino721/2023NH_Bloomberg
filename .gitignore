@@ -1,5 +1,6 @@
 mistral-7B-v0.1/
-mistral-scr-main/
+mistral-src-main/
 open/
 문서/
 __pycache__/
+tokens.py
