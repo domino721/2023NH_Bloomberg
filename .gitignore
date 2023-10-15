@@ -4,3 +4,4 @@ open/
 문서/
 __pycache__/
 tokens.py
+*.png
