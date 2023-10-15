@@ -5,3 +5,4 @@ open/
 __pycache__/
 tokens.py
 *.png
+*.pdf
